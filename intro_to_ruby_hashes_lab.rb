@@ -26,6 +26,7 @@ def monopoly_with_third_tier
 	  :railroads => {}
 	  
 	}
+	monopoly[:railroads][0] = [:pieces]
 		
 end
 
